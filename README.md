@@ -1,6 +1,6 @@
 # Hello Everyone
 
-I'm kirtan jain, a passionate developer exploring the vast realms of modern web development. Currently, I'm open to build exciting and dynamic web applications.
+I'm **kirtan jain**, a passionate developer exploring the vast realms of modern web development. Currently, I'm open to build exciting and dynamic web applications.
 
 - 🌱 I’m currently learning **React, Nodejs, Expressjs, Tailwind CSS, Nextjs**
 
