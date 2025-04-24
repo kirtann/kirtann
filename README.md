@@ -21,7 +21,7 @@ I'm **kirtan jain**, a passionate developer exploring the vast realms of modern 
 
 <h3 align="center">Languages and Tools:</h3><br>
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,cs,css,discord,bots,docker,express,figma,gcp,git,github,githubactions,gitlab,graphql,heroku,html,ai,java,spring,js,jquery,linux,md,mongodb,netlify,nextjs,nginx,nodejs,postgres,postman,powershell,py,react,redis,regex,replit,sqlite,mysql,stackoverflow,svg,tailwind,twitter,ts,vite,webpack&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,aws,bash,bootstrap,c,cpp,cs,css,discord,devto,bots,django,docker,express,fastapi,figma,firebase,gcp,git,github,githubactions,go,gitlab,graphql,heroku,html,ai,java,kotlin,spring,js,jest,jquery,linux,md,mongodb,netlify,nextjs,nginx,nodejs,php,postgres,postman,powershell,py,react,redis,regex,redux,replit,sqlite,styledcomponents,mysql,stackoverflow,svg,tailwind,twitter,ts,vercel,vim,vite,wasm,webpack,workers&perline=8&theme=dark" />
 </p><br><br>
 
 ## 📈 GitHub Stats
